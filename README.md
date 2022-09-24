@@ -1,6 +1,10 @@
 # Alura-Store
 
+Projeto exemplificando CSS Grid
+
 ## CSS Grid
+
+![image](https://user-images.githubusercontent.com/66702430/192072824-497983a1-2084-4fce-ba62-62f19108ed14.png)
 
 ### 01.
 - Definir um template e criar áreas.
